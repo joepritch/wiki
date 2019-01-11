@@ -1,0 +1,41 @@
+.sidebar  {
+  float: left;
+  margin:0px;
+  background-color: rgb(240, 240, 240);
+  margin-top: 0px;
+  border-right: solid 1px lightblue;
+
+}
+img {
+  display: block;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.line {
+  text-decoration: underline;
+  margin-top: 10px;
+}
+.sidetext {
+  margin: 10px;
+}
+
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 25px;
+}
+h5  {
+  background-color: lightgreen;
+  border: solid 1px green;
+  padding: 3px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.imgleft  {
+  float: left;
+  width: 15%;
+}
+.imgright  {
+  float: right;
+  width: 15%;
+}
